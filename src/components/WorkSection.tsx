@@ -214,6 +214,11 @@ const WorkSection: React.FC = () => {
                        className="text-royal-blue hover:text-green-600 transition-colors duration-300 relative group font-medium">
                       Christ
                       <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-green-600 transition-all duration-300 group-hover:w-full"></span>
+                    </a>,{' '}
+                    <a href="https://jmi.ac.in/" target="_blank" rel="noopener noreferrer" 
+                       className="text-royal-blue hover:text-green-600 transition-colors duration-300 relative group font-medium">
+                      Jamia University
+                      <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-green-600 transition-all duration-300 group-hover:w-full"></span>
                     </a>, and{' '}
                     <a href="https://www.linkedin.com/posts/yashagarwalm_taught-a-1-credit-module-for-the-first-time-activity-7276573519272988672-uAEy" target="_blank" rel="noopener noreferrer" 
                        className="text-royal-blue hover:text-green-600 transition-colors duration-300 relative group font-medium">
